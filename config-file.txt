@@ -1,6 +1,6 @@
 [AIS]
 # Serial port configuration
-serial_port = /dev/ttyUSB0
+serial_port = /dev/serial0
 baudrate = 38400
 serial_timeout = 2.0
 
